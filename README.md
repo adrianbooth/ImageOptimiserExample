@@ -5,3 +5,7 @@ An azure function that triggers each time a new item is added to blobstorage and
 
 To run this locally for debugging you will need Azure core tools, if you have visual studio installed with could and web development configuration you may already have it, if not follow this guide to install all the things https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local
 
+### Related slides
+
+https://docs.google.com/presentation/d/1NrhE3zegXkqCLfBfJmD3LHJUqj9yHVH_-d9oK5GBxy0/edit?usp=sharing 
+
